@@ -54,7 +54,7 @@ jobs:
 
   test_image:
     docker:
-      - image: $DOCKER_USERNAME/expo-fastlane:
+      - image: $DOCKER_USERNAME/expo-fastlane:0.1-alpha
         environment:
           <<: *image_config
 
