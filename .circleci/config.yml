@@ -17,7 +17,7 @@ image_config: &image_config
 
   RUBY_VERSION_NUM: 2.6.6
 
-  NODE_VERSION_NUM: 13.14
+  NODE_VERSION_NUM: 13.14.0
 
   PYTHON_VERSION_NUM: 3.7.8
 
